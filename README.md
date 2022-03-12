@@ -13,3 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+## Contract Address
+
+```shell
+Contract deployed to: 0x7347184C3eE9cfD10eAE5F18D167A4407C4B6bd3
+```
